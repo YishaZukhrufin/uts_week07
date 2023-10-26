@@ -57,10 +57,15 @@ Sesuaikan dan modifikasi tampilan sehingga menjadi aplikasi yang menarik. Selain
 Selesaikan Praktikum Navigasi dan Rute tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md. Kumpulkan link commit repository GitHub Anda ke spreadsheet yang telah disediakan!
 
 ## Output
+<img width="340" alt="image" src="https://github.com/YishaZukhrufin/uts_week07/assets/93432448/400dbede-fa79-4c6a-a143-5f82da3161de">
 
-![Screenshot hello_word](images/outpu1.jpg)
 
-![Screenshot hello_word](images/outpu2.jpg)
+
+<img width="340" alt="image" src="https://github.com/YishaZukhrufin/uts_week07/assets/93432448/c59c44d4-b9b1-47f0-bb34-b56672ad3bcc">
+
+
+
+
 
 
 
