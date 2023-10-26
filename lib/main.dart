@@ -1,7 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:uts_week09/pages/item_page.dart';
+import 'package:uts_week09/pages/home_page.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(MaterialApp(
+    initialRoute: '/',
+    routes: {
+      '/': (context) => HomePage(),
+    },
+  ));
 }
 
 class MyApp extends StatelessWidget {
